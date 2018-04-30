@@ -4,3 +4,4 @@ c:\users\anthony\source\repos\Lab6\Lab6\bin\Debug\Lab6.pdb
 c:\users\anthony\source\repos\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
 c:\users\anthony\source\repos\Lab6\Lab6\obj\Debug\Lab6.exe
 c:\users\anthony\source\repos\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\Users\Anthony\source\repos\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
